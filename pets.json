@@ -1,0 +1,476 @@
+[
+  {
+    "id": 1789580869248,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789581180409,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789581226574,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789581248256,
+    "name": "Fido dido",
+    "type": "Perro",
+    "age": 4
+  },
+  {
+    "id": 1789583198104,
+    "name": "Fido dido",
+    "type": "Perro",
+    "age": 4
+  },
+  {
+    "id": 1789583836345,
+    "name": "Fido dido",
+    "type": "Perro",
+    "age": 4
+  },
+  {
+    "id": 1789583874629,
+    "name": "Nella",
+    "type": "Perro",
+    "age": 4
+  },
+  {
+    "id": 1789583900123,
+    "name": "Jazlyn",
+    "type": "tiger",
+    "age": 4
+  },
+  {
+    "id": 1789583921376,
+    "name": "Providenci",
+    "type": "panda",
+    "age": 40
+  },
+  {
+    "id": 1789584245001,
+    "name": "Dean",
+    "type": "Perro",
+    "age": 39
+  },
+  {
+    "id": 1789585109785,
+    "name": "Dorthy",
+    "type": "crocodile",
+    "age": 37
+  },
+  {
+    "id": 1789585121550,
+    "name": "Bethany",
+    "type": "bear",
+    "age": 95
+  },
+  {
+    "id": 1789586190021,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789586204017,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789586289604,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789586362798,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789586461835,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789586635661,
+    "name": "Jude",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789586664230,
+    "name": "Bethel",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789586692007,
+    "name": "Isabella",
+    "type": "bear",
+    "age": 43
+  },
+  {
+    "id": 1789586707712,
+    "name": "Dorothea",
+    "type": "bee",
+    "age": 35
+  },
+  {
+    "id": 1789586860956,
+    "name": "Monty",
+    "type": "Perro",
+    "age": 21
+  },
+  {
+    "id": 1789586870797,
+    "name": "Nelle",
+    "type": "Perro",
+    "age": 87
+  },
+  {
+    "id": 1789587757073,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789587770785,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789674162217,
+    "name": "Firulais",
+    "type": "perro",
+    "age": 15
+  },
+  {
+    "id": 1789674379328,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789674614824,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789674688757,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789674738308,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789674779985,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789674809002,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789674937318,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789674957932,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789674989764,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789675083401,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789675188107,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789675238054,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789675252237,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789676048009,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789997972725,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789999602978,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1789999603066,
+    "name": "Sara",
+    "type": "Perro",
+    "age": 62
+  },
+  {
+    "id": 1789999603176,
+    "name": "Katelynn",
+    "type": "cow",
+    "age": 11
+  },
+  {
+    "id": 1789999603466,
+    "name": "Litzy",
+    "type": "cow",
+    "age": 56
+  },
+  {
+    "id": 1790019840262,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1790019849691,
+    "name": "Jules",
+    "type": "squirrel",
+    "age": 59
+  },
+  {
+    "id": 1790019849775,
+    "name": "Miller",
+    "type": "Perro",
+    "age": 85
+  },
+  {
+    "id": 1790019849916,
+    "name": "Jordyn",
+    "type": "bird",
+    "age": 56
+  },
+  {
+    "id": 1790019850198,
+    "name": "Fido",
+    "type": "Perro",
+    "age": 3
+  },
+  {
+    "id": 1792246235405,
+    "name": "Easton",
+    "type": "kangaroo",
+    "age": 67
+  },
+  {
+    "id": 1792246589012,
+    "name": "Perro1",
+    "type": "perro",
+    "age": 12
+  },
+  {
+    "id": 1792246623440,
+    "name": "Perro1",
+    "type": "perro",
+    "age": 12
+  },
+  {
+    "id": 1792247381097,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792247410228,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792247424419,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792247561640,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792247609951,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792247870636,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792247885712,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792247899710,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792247921140,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792248010688,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792248083635,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792248229614,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792248323832,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792248382561,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792249055782,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792249067098,
+    "name": "perro2",
+    "type": "gato",
+    "age": 15
+  },
+  {
+    "id": 1792265766578,
+    "name": "prueba",
+    "type": "gatito",
+    "age": 35
+  },
+  {
+    "id": 1792265782501,
+    "name": "prueba",
+    "type": "gatito",
+    "age": 35
+  },
+  {
+    "id": 1792265855736,
+    "name": "prueba",
+    "type": "gatito",
+    "age": 35
+  },
+  {
+    "id": 1792265871106,
+    "name": "prueba",
+    "type": "gatito",
+    "age": 35
+  },
+  {
+    "id": 1792265970985,
+    "name": "prueba",
+    "type": "gatito",
+    "age": 35
+  },
+  {
+    "id": 1792266161880,
+    "name": "prueba",
+    "type": "gatito",
+    "age": 35
+  },
+  {
+    "id": 1792266195082,
+    "name": "prueba",
+    "type": "gatito",
+    "age": 35
+  },
+  {
+    "id": 1792266239513,
+    "name": "prueba",
+    "type": "gatito",
+    "age": 35
+  },
+  {
+    "id": 1793125737420,
+    "name": "Perro1",
+    "type": "perro",
+    "age": 12
+  },
+  {
+    "id": 1793125742202,
+    "name": "Perro1",
+    "type": "perro",
+    "age": 12
+  }
+]
